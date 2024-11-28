@@ -50,4 +50,4 @@ This project is under the MIT License. The dataset is available for academic and
 
 ## Dataset Source
 The dataset used for this project is available on Hugging Face:
-[Animal Image Classification Dataset](https://huggingface.co/datasets/AlvaroVasquezAI/Animal_Image_Classification_Dataset)
+[Animal Image Classification Dataset]([https://www.kaggle.com/datasets/borhanitrash/animal-image-classification-dataset/data])
