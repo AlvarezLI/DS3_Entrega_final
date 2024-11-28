@@ -49,5 +49,5 @@ Two models were developed and evaluated:
 This project is under the MIT License. The dataset is available for academic and non-commercial usage under the source's terms.
 
 ## Dataset Source
-The dataset used for this project is available on Hugging Face:
-[Animal Image Classification Dataset]([https://www.kaggle.com/datasets/borhanitrash/animal-image-classification-dataset/data])
+The dataset used for this project is available on:
+[Animal Image Classification Dataset](https://www.kaggle.com/datasets/borhanitrash/animal-image-classification-dataset/data)
